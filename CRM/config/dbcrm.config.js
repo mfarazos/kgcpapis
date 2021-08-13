@@ -1,6 +1,6 @@
 module.exports = {
     host: "localhost",
-    user: "root",
-    password: "",
-    database: "kgc_crm",
+    user: "squarepro_root",
+    password: "Pakistan786&",
+    database: "squarepro_kgc_crm",
    };
